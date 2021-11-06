@@ -5,7 +5,7 @@ include('connect.php')
 <!DOCTYPE html>
 <html>
 <head>
-	link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 	<!-- icon -->
 	<link rel="icon" href="images/green-chmsc-official-logo.png" >
 	<title>Carlos Hilado Memorial State College</title>
